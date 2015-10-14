@@ -2,7 +2,7 @@
 
 
 def getLength(str):
-  retrun str.length()
+  return len(str)
   
 def testGetLength():
   str = 'Hello'
